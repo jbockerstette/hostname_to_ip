@@ -1,0 +1,4 @@
+google.com, 172.217.9.142
+asdlfjlsdasfasdfasf.com, Unknown host
+yahoo.com, 206.190.36.45
+localhost, 127.0.0.1
